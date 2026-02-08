@@ -11,11 +11,10 @@ Aspiring Java Developer
 
 ## 🧑‍💻 About Me
 
-- Interested in software development
-- Currently pursuing Java full stack course at Uniq Technologies - Chennai
-- Looking for help with placement in frontend/backend/fullstack
-- Check out my [GitHub projects](https://github.com/yourusername?tab=repositories), including UI designs, interactive web pages, and problem-solving scripts
-- Proficient in touch typing for efficient coding
+I’m a Java Full Stack Developer with a strong interest in building scalable web applications.  
+I enjoy working with Spring Boot on the backend and React on the frontend.  
+I’m continuously learning new technologies and improving my problem-solving skills by building real-world projects.
+
 
 ---
 
