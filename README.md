@@ -11,10 +11,22 @@ Aspiring Java Developer
 
 ## 🧑‍💻 About Me
 
-I’m a Java Full Stack Developer with a strong interest in building scalable web applications.  
-I enjoy working with Spring Boot on the backend and React on the frontend.  
-I’m continuously learning new technologies and improving my problem-solving skills by building real-world projects.
+Hi, I'm Gopi 👋
 
+Java Backend / Full Stack Developer with hands-on experience in building scalable REST APIs using Java, Spring Boot, and MySQL.
+
+💻 Built 60+ REST APIs using Spring Boot with MVC architecture  
+🔐 Experience with JWT Authentication, exception handling, and database design  
+🗄️ Skilled in MySQL, ACID transactions, and Spring Data JPA  
+⚙️ Tools: Git, GitHub, Maven, Postman, Tomcat  
+
+🚀 Projects:
+• Car Insurance Management System – Backend system with 45+ REST APIs and role-based authentication  
+• Banking System Application – Full-stack team project with transaction management and admin dashboard  
+
+🌱 Currently improving my skills in Spring Boot, Microservices, and System Design.
+
+🎯 Goal: To build scalable backend systems and grow as a professional software developer.
 
 ---
 
